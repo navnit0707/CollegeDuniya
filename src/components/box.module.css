@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  background-color: rgb(254, 254, 254);
+  flex: auto;
+  border: 2px solid black;
+}
+
+.container-header,
+.container-body,
+.container-footer {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+  }
+}

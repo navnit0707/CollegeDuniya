@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.container .syllabus,
+.container .question,
+.extrastuff {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+.container .syllabus,
+.container .question,
+.container .extrastuff {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* Create 5 columns with equal width */
+  gap: 10px;
+}
+.container .syllabus Box,
+.container .question Box,
+.container .extrastuff Box {
+  background-color: lightgray;
+  padding: 10px;
+  border: 1px solid gray;
+}
