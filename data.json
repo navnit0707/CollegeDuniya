@@ -1,0 +1,3036 @@
+{
+  "stream": {
+    "B.Tech": {
+      "stream": {
+        "CIVIL ENGINEERING": {
+          "semester": {
+            "first": {
+              "COMMUNICATIVE ENGLISH": {
+                "code": "CEUG 1 24 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "PHYSICS": {
+                "code": "CEUG 1 22 1101",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS- I": {
+                "code": "CEUG 1 21 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "BASIC ELECTRICAL ENGINEERING": {
+                "code": "CEUG 1 03 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "FUNDAMENTALS OF INFORMATION TECHNOLOGY": {
+                "code": "CEUG 1 06 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "ENGINEERING GRAPHICS": {
+                "code": "CEUG 1 02 1x02",
+                "L": 2,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "EAA-I-NSS": {
+                "code": "CEUG 1 GE 1x01",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "second": {
+              "ENVIRONMENTAL SCIENCE": {
+                "code": "CEUG 2 01 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENGINEERING CHEMISTRY": {
+                "code": "CEUG 2 23 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS II": {
+                "code": "CEUG 2 21 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ENGINEERING MECHANICS": {
+                "code": "CEUG 2 01 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELEMENTS OF MECHANICAL ENGINEERING": {
+                "code": "CEUG 2 02 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "WORKSHOP": {
+                "code": "CEUG 2 02 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              },
+              "EAA-II-NSS": {
+                "code": "CEUG 2 GE 1x02",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "third": {
+              "ORGANIZATIONAL BEHAVIOUR AND INDUSTRIAL PSYCHOLOGY": {
+                "code": "CEUG 3 24 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "BUILDING SCIENCE": {
+                "code": "CEUG 3 01 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENGINEERING GEOLOGY": {
+                "code": "CEUG 3 01 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "FLUID MECHANICS": {
+                "code": "CEUG 3 01 1x07",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "CIVIL ENGINEERING DRAWING": {
+                "code": "CEUG 3 01 1x14",
+                "L": 0,
+                "T": 0,
+                "P": 3,
+                "Credits": 2
+              },
+              "INDUSTRIAL ECONOMICS & ACCOUNTANCY": {
+                "code": "CEUG 3 24 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "MATHEMATICS - III": {
+                "code": "CEUG 3 21 1x03",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "EAA III-NSS": {
+                "code": "CEUG 3 GE 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "fourth": {
+              "FIELD MEASUREMENT (SURVEYING)": {
+                "code": "CEUG 4 01 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MECHANICS OF SOLID – I": {
+                "code": "CEUG 4 01 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "HYDRAULICS AND OPEN CHANNEL FLOW": {
+                "code": "CEUG 4 01 1x10",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "OBJECT ORIENTED PROGRAMMING": {
+                "code": "CEUG 4 05 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "NUMERICAL METHODS AND COMPUTATIONAL TECHNIQUE": {
+                "code": "CEUG 4 21 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "THERMODYNAMICS": {
+                "code": "CEUG 4 02 1x07",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "EAA -IV-NSS": {
+                "code": "CEUG 4 GE 1x04",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "fifth": {
+              "ADVANCED SURVEYING": {
+                "code": "CEUG 5 01 1x08",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "SOIL MECHANICS": {
+                "code": "CEUG 5 01 1x09",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "STRUCTURAL ANALYSIS-I": {
+                "code": "CEUG 5 01 1x11",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ENGINEERING HYDROLOGY": {
+                "code": "CEUG 5 01 1x12",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "MECHANICS OF SOLID –II": {
+                "code": "CEUG 5 01 1x13",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "FLUID MACHINERY": {
+                "code": "CEUG 5 02 1x10",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              }
+            },
+            "sixth": {
+              "SOIL AND ROCK MECHANICS": {
+                "code": "CEUG 6 01 1x15",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "STRUCTURAL ANALYSIS –II": {
+                "code": "CEUG 6 01 1x16",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "DESIGN OF CONCRETE STRUCTURE-I": {
+                "code": "CEUG 6 01 1x17",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENVIRONMENTAL ENGINEERING-I": {
+                "code": "CEUG 6 01 1x18",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "TRANSPORTATION ENGINEERING-I": {
+                "code": "CEUG 6 01 1x19",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DESIGN OF STEEL STRUCTURES": {
+                "code": "CEUG 6 01 1x20",
+                "L": 2,
+                "T": 0,
+                "P": 3,
+                "Credits": 4
+              }
+            },
+            "seventh": {
+              "DESIGN OF CONCRETE STRUCTURE - II": {
+                "code": "CEUG 7 01 1x26",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DESIGN OF HYDRAULIC STRUCTURES": {
+                "code": "CEUG 7 01 1x25",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTIVE-I": {
+                "code": "CEUG 7 01 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ENVIRONMENTAL ENGINEERING -II": {
+                "code": "CEUG 7 01 1x23",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "FOUNDATION ENGINEERING": {
+                "code": "CEUG 7 01 1x22",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "TRANSPORTATION ENGINEERING-II": {
+                "code": "CEUG 7 01 1x24",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PROJECT-I": {
+                "code": "CEUG 7 01 1x29",
+                "L": 0,
+                "T": 0,
+                "P": 5,
+                "Credits": 3
+              },
+              "CIVIL ENGINEERING PROFESSION & PRACTICE OR VOCATIONAL TRAINING(DURING SUMMER FOR 4 WEEKS AFTER 6TH SEMESTER": {
+                "code": "CEUG 7 01 1x21",
+                "L": 0,
+                "T": 0,
+                "P": 3,
+                "Credits": 2
+              }
+            },
+            "eighth": {
+              "CONSTRUCTION PLANNING AND MANAGEMENT": {
+                "code": "CEUG 8 01 1x27",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "CONTRACT, SPECIFICATION &ESTIMATION": {
+                "code": "CEUG 8 01 1x28",
+                "L": 0,
+                "T": 0,
+                "P": 3,
+                "Credits": 2
+              },
+              "ELECTIVE – II": {
+                "code": "CEUG 8 01 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE -III": {
+                "code": "CEUG 8 01 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE - IV": {
+                "code": "CEUG 8 01 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "IRRIGATION ENGINEERING": {
+                "code": "CEUG 8 01 1x52",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PROJECT-II( IN CONTINUATION OF 7TH SEM. PROJECT)": {
+                "code": "CEUG 8 011x29",
+                "L": 0,
+                "T": 0,
+                "P": 15,
+                "Credits": 10
+              }
+            }
+          }
+        },
+        "MECHANICAL ENGINEERING": {
+          "semester": {
+            "first": {
+              "COMMUNICATIVE ENGLISH": {
+                "code": "EEUG 1 24 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "PHYSICS": {
+                "code": "EEUG 1 22 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS": {
+                "code": "EEUG 1 21 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "BASIC ELECTRICAL ENGINEERING": {
+                "code": "EEUG 1 03 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "FUNDAMENTAL OF INFORMATION TECHNOLOGY": {
+                "code": "EEUG 1 06 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "ENGINEERING GRAPHICS": {
+                "code": "EEUG 1 02 1x02",
+                "L": 2,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "EAA-I-NSS": {
+                "code": "EEUG 1 GE 1101",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "second": {
+              "ENVIRONMENTAL SCIENCE": {
+                "code": "EEUG 2 01 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENGINEERING CHEMISTRY": {
+                "code": "EEUG 2 23 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS-II": {
+                "code": "EEUG 2 21 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ENGINEERING MECHANICS": {
+                "code": "EEUG 2 01 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELEMENTS OF MECHANICAL ENGINEERING": {
+                "code": "EEUG 2 02 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "WORKSHOP": {
+                "code": "EEUG 2 02 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              },
+              "EAA-II-NSS": {
+                "code": "EEUG 2 GE 1202",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "third": {
+              "BASIC ELECTRONICS": {
+                "code": "EEUG 3 04 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "ELECTRICAL MACHINE-I": {
+                "code": "EEUG 3 03 1x42",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS-III": {
+                "code": "EEUG 3 21 1x03",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "OBJECT ORIENTED PROGRAMMING": {
+                "code": "EEUG 3 05 1x01",
+                "L": 2,
+                "T": 0,
+                "P": 3,
+                "Credits": 4
+              },
+              "SOLID STATE PHYSICS AND DEVICES": {
+                "code": "EEUG 3 04 1x08",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "THERMODYNAMICS": {
+                "code": "EEUG 3 02 1x07",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "EAA-III-NSS": {
+                "code": "EEUG 3 GE 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "fourth": {
+              "DIGITAL ELECTRONICS": {
+                "code": "EEUG 4 04 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "NUMERICAL METHOD AND COMPUTATIONAL TECHNIQUE": {
+                "code": "EEUG 4 21 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTRICAL MACHINE-II": {
+                "code": "EEUG 4 03 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ORGANIZATIONAL BEHAVIOUR AND INDUSTRIAL PSYCHOLOGY": {
+                "code": "EEUG 4 24 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "POWER SYSTEM -I": {
+                "code": "EEUG 4 03 1x04",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "INDUSTRIAL ECONOMICS AND ACCOUNTANCY": {
+                "code": "EEUG 4 24 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "EAA-IV-NSS": {
+                "code": "EEUG 4 GE 1x04",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 26
+              }
+            },
+            "fifth": {
+              "ANALOG ELECTRONICS": {
+                "code": "EEUG 5 04 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "NETWORK THEORY": {
+                "code": "EEUG 5 03 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "POWER SYSTEM -II": {
+                "code": "EEUG 5 03 1x08",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ELECTROMAGNETIC FIELD THEORY": {
+                "code": "EEUG 5 03 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "SIGNALS AND SYSTEM": {
+                "code": "EEUG 5 03 1x10",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "INFORMATION SECURITY": {
+                "code": "EEUG 5 06 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              }
+            },
+            "sixth": {
+              "COMPUTER ARCHITECTURE": {
+                "code": "EEUG 6 05 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "UTILIZATION OF ELECTRICAL POWER": {
+                "code": "EEUG 6 03 1x16",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "INTRODUCTION TO COMMUNICATION SYSTEM": {
+                "code": "EEUG 6 04 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MICROPROCESSOR AND ITS APPLICATION": {
+                "code": "EEUG 6 03 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "POWER ELECTRONICS": {
+                "code": "EEUG 6 03 1x09",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTRICAL INSTRUMENT AND MEASUREMENT": {
+                "code": "EEUG 6 03 1x07",
+                "L": 3,
+                "T": 0,
+                "P": 1,
+                "Credits": 5
+              }
+            },
+            "seventh": {
+              "ELECTIVE-I": {
+                "code": "EEUG 7 03 1xxx",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "INTELLIGENT INSTRUMENT": {
+                "code": "EEUG 7 04 1x06",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "INDUSTRIAL TRAINING": {
+                "code": "EEUG 7 03 1x38",
+                "L": 2,
+                "T": 0,
+                "P": 0,
+                "Credits": null
+              },
+              "LINEAR CONTROL THEORY": {
+                "code": "EEUG 7 03 1x12",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "PROTECTION OF POWER APPARATUS AND SYSTEM": {
+                "code": "EEUG 7 03 1x13",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "PROJECT (MINOR)": {
+                "code": "EEUG 7 03 1x39",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              }
+            },
+            "eighth": {
+              "ELECTIVE-II": {
+                "code": "EEUG 8 03 1xxx",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "MODERN CONTROL THEORY": {
+                "code": "EEUG 8 03 1x15",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION": {
+                "code": "EEUG 8 24 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PROJECT (MAJOR)": {
+                "code": "EEUG 8 03 1x41",
+                "L": 0,
+                "T": 0,
+                "P": 12,
+                "Credits": 8
+              },
+              "SEMINAR": {
+                "code": "EEUG 8 03 1x40",
+                "L": 0,
+                "T": 0,
+                "P": 3,
+                "Credits": 2
+              },
+              "POWER SYSTEM DESIGN": {
+                "code": "EEUG 8 03 1x14",
+                "L": 1,
+                "T": 0,
+                "P": 3,
+                "Credits": 3
+              }
+            }
+          }
+        },
+        "ELECTRICAL ENGINEERING": {
+          "semester": {
+            "first": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "second": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "third": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "fourth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "fifth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "sixth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "seventh": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "eigth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            }
+          }
+        },
+        "ELECTRONICS & COMMUNICATION ENGINEERING": {
+          "semester": {
+            "first": {
+              "ENGINEERING MECHANICS": {
+                "code": "ECUG 1 01 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENGINEERING CHEMISTRY": {
+                "code": "ECUG 1 23 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENVIRONMENTAL SCIENCE": {
+                "code": "ECUG 1 011x02",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS-I": {
+                "code": "ECUG 1 21 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ELEMENTS OF MECHANICAL ENGINEERING": {
+                "code": "ECUG 1 02 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "WORKSHOP": {
+                "code": "ECUG 1 02 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              },
+              "EAA-I-NSS": {
+                "code": "ECUG 1 GE 1x01",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "second": {
+              "BASIC ELECTRICAL ENGINEERING": {
+                "code": "ECUG 2 03 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "COMMUNICATIVE ENGLISH": {
+                "code": "ECUG 2 24 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "FUNDAMENTAL OF INFORMATION TECHNOLOGY": {
+                "code": "ECUG 2 06 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "MATHEMATICS-II": {
+                "code": "ECUG 2 21 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ENGINEERING GRAPHICS": {
+                "code": "ECUG 2 02 1x02",
+                "L": 2,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHYSICS": {
+                "code": "ECUG 2 22 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "EAA-II-NSS": {
+                "code": "ECUG 2 GE 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "third": {
+              "ORGANIZATIONAL BEHAVIOUR AND INDUSTRIAL PSYCHOLOGY": {
+                "code": "ECUG 3 24 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "SOLID STATE PHYSICS AND DEVICES": {
+                "code": "ECUG 3 04 1x08",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "BASIC ELECTRONICS": {
+                "code": "ECUG 3 04 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "ELECTRICAL MACHINE-I": {
+                "code": "ECUG 3 03 1x42",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "INDUSTRIAL ECONOMICS AND ACCOUNTANCY": {
+                "code": "ECUG 3 24 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "MATHEMATICS -III": {
+                "code": "ECUG 3 21 1x03",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "EAA-III-NSS": {
+                "code": "ECUG 3 GE 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 26
+              }
+            },
+            "fourth": {
+              "OBJECT ORIENTED PROGRAMMING": {
+                "code": "ECUG 4 05 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DIGITAL ELECTRONICS": {
+                "code": "ECUG 4 04 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "ELECTRICAL & ELECTRONIC MATERIAL": {
+                "code": "ECUG 4 04 1x12",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "PERSONAL MANAGEMENT & INDUSTRIAL RELATION": {
+                "code": "ECUG 4 24 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "SOFTWARE ENGINEERING": {
+                "code": "ECUG 4 05 1x14",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "NUMERICAL METHODS & COMPUTATIONAL TECHNIQUES": {
+                "code": "ECUG 4 21 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "EAA-IV-NSS": {
+                "code": "ECUG 4 GE 1x04",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 28
+              }
+            },
+            "fifth": {
+              "INTRODUCTION TO COMMUNICATION SYSTEMS": {
+                "code": "ECUG 5 04 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ANALOG ELECTRONICS": {
+                "code": "ECUG 5 04 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTIVE-I": {
+                "code": "ECUG 5 04 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTRICAL INSTRUMENTS & MEASUREMENTS": {
+                "code": "ECUG 5 03 1x07",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MICROPROCESSOR AND ITS APPLICATIONS": {
+                "code": "ECUG 5 03 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "WEB TECHNOLOGY": {
+                "code": "ECUG 5 06 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              }
+            },
+            "sixth": {
+              "OPTICAL FIBER COMMUNICATION": {
+                "code": "ECUG 6 04 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "INTELLIGENT INSTRUMENTS": {
+                "code": "ECUG 6 04 1x06",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTIVE – II": {
+                "code": "ECUG 6 04 1xxx",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "NETWORK THEORY": {
+                "code": "ECUG 6 03 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTROMAGNETIC FIELD THEORY": {
+                "code": "ECUG 6 03 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "SIGNALS & SYSTEMS": {
+                "code": "ECUG 6 03 1x10",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              }
+            },
+            "seventh": {
+              "ADVANCED ELECTROMAGNETIC THEORY": {
+                "code": "ECUG 7 04 1x09",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "DIGITAL SIGNAL PROCESSING": {
+                "code": "ECUG 7 04 1x10",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "PROJECT – I": {
+                "code": "ECUG 7 04 1x14",
+                "L": 0,
+                "T": 0,
+                "P": 9,
+                "Credits": 6
+              },
+              "ELECTIVE-III": {
+                "code": "ECUG 7 04 1xxx",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "POWER ELECTRONICS": {
+                "code": "ECUG 7 03 1x09",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "INDUSTRIAL TRAINING": {
+                "code": "ECUG 7 04 1x15",
+                "L": 2,
+                "T": 0,
+                "P": 0,
+                "Credits": 26
+              }
+            },
+            "eighth": {
+              "COMPUTER NETWORKS": {
+                "code": "ECUG 8 05 1x13",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "MICROWAVE ENGINEERING": {
+                "code": "ECUG 8 04 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTIVE-IV": {
+                "code": "ECUG 8 04 1xxx",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "LINEAR CONTROL THEORY": {
+                "code": "ECUG 8 03 1x12",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "INFORMATION SECURITY": {
+                "code": "ECUG 8 06 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PROJECT – II": {
+                "code": "ECUG 8 05 1x24",
+                "L": 0,
+                "T": 0,
+                "P": 9,
+                "Credits": 6
+              }
+            }
+          }
+        },
+        "COMPUTER SCIENCE AND ENGINEERING": {
+          "semester": {
+            "first": {
+              "ENVIRONMENTAL SCIENCE": {
+                "code": "CSUG 1 01 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS – I": {
+                "code": "CSUG 1 21 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ENGINEERING CHEMISTRY": {
+                "code": "CSUG 1 23 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENGINEERING MECHANICS": {
+                "code": "CSUG 1 01 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELEMENTS OF MECHANICAL ENGINEERING": {
+                "code": "CSUG 1 02 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "WORKSHOP": {
+                "code": "CSUG 1 02 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              },
+              "EAA-I-NSS": {
+                "code": "CSUG 1 GE 1101",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "second": {
+              "COMMUNICATIVE ENGLISH": {
+                "code": "CSUG 2 24 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "MATHEMATICS-II": {
+                "code": "CSUG 2 21 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "PHYSICS": {
+                "code": "CSUG 2 22 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "BASIC ELECTRICAL ENGINEERING": {
+                "code": "CSUG 2 03 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "FUNDAMENTAL OF INFORMATION TECHNOLOGY": {
+                "code": "CSUG 2 06 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "ENGINEERING GRAPHICS": {
+                "code": "CSUG 2 01 1x02",
+                "L": 2,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "EAA-II-NSS": {
+                "code": "CSUG 2 GE 1x02",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "third": {
+              "MATHEMATICS-III": {
+                "code": "CSUG 3 21 1x03",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "DIGITAL ELECTRONICS": {
+                "code": "CSUG 3 04 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "OBJECT ORIENTED PROGRAMMING": {
+                "code": "CSUG 3 05 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "NUMERICAL METHODS & COMPUTATIONAL TECHNIQUES": {
+                "code": "CSUG 3 21 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "BASIC ELECTRONICS": {
+                "code": "CSUG 3 04 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "EAA-III-NSS": {
+                "code": "CSUG 3 GE 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 24
+              }
+            },
+            "fourth": {
+              "DISCRETE MATHEMATICAL STRUCTURE & GRAPH THEORY": {
+                "code": "CSUG 4 21 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ANALOG ELECTRONICS": {
+                "code": "CSUG 4 04 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DATA STRUCTURES": {
+                "code": "CSUG 4 05 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "COMPUTER ARCHITECTURE": {
+                "code": "CSUG 4 05 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "SYSTEMS PROGRAMMING": {
+                "code": "CSUG 4 05 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ORGANIZATIONAL BEHAVIOUR AND INDUSTRIAL PSYCHOLOGY": {
+                "code": "CSUG 4 24 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "EAA-IV-NSS": {
+                "code": "CSUG 4 GE 1x04",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 25
+              }
+            },
+            "fifth": {
+              "MICROPROCESSOR AND ITS APPLICATIONS": {
+                "code": "CSUG 5 03 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DESIGN & ANALYSIS OF ALGORITHMS": {
+                "code": "CSUG 5 05 1x06",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "INTRODUCTION TO JAVA PROGRAMMING LANGUAGE": {
+                "code": "CSUG 5 05 1x29",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DATABASE SYSTEMS": {
+                "code": "CSUG 5 05 1x09",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "OPERATING SYSTEMS": {
+                "code": "CSUG 5 06 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "COMPUTER NETWORKS": {
+                "code": "CSUG 5 05 1x13",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              }
+            },
+            "sixth": {
+              "OBJECT ORIENTED ANALYSIS & DESIGN": {
+                "code": "CSUG 6 05 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PRINCIPLES OF PROGRAMMING LANGUAGES": {
+                "code": "CSUG 6 05 1x10",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "FORMAL LANGUAGES & AUTOMATA THEORY": {
+                "code": "CSUG 6 05 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "INDUSTRIAL ECONOMICS & ACCOUNTANCY": {
+                "code": "CSUG 6 24 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "SOFTWARE ENGINEERING": {
+                "code": "CSUG 6 05 1x14",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "WEB APPLICATIONS DESIGN & DEVELOPMENT": {
+                "code": "CSUG 6 05 1x07",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "COMPILER DESIGN": {
+                "code": "CSUG 6 05 1x16",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              }
+            },
+            "seventh": {
+              "DISTRIBUTED COMPUTING": {
+                "code": "CSUG 7 05 1x15",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ARTIFICIAL INTELLIGENCE": {
+                "code": "CSUG 7 05 1x17",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELECTIVE-I": {
+                "code": "CSUG 7 XX 17XX",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE-II": {
+                "code": "CSUG 7 XX 17XX",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE-III": {
+                "code": "CSUG 7 XX 17XX",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PROJECT – I": {
+                "code": "CSUG 7 05 1x20",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              },
+              "INDUSTRIAL TRAINING": {
+                "code": "CSUG 7 05 1x21",
+                "L": 2,
+                "T": 0,
+                "P": 0,
+                "Credits": 25
+              }
+            },
+            "eighth": {
+              "DATA MINING": {
+                "code": "CSUG 8 05 1x22",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "PERSONAL MANAGEMENT & INDUSTRIAL RELATION": {
+                "code": "CSUG 8 24 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "INFORMATION SECURITY": {
+                "code": "CSUG 8 06 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE-IV": {
+                "code": "CSUG 8 XX 18XX",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE-V": {
+                "code": "CSUG 8 XX 18XX",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE-VI": {
+                "code": "CSUG 8 XX 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PROJECT – II": {
+                "code": "CSUG 8 05 1x24",
+                "L": 0,
+                "T": 0,
+                "P": 9,
+                "Credits": 6
+              }
+            }
+          }
+        },
+        "INFORMATION TECHNOLOGY ": {
+          "semester": {
+            "first": {
+              "ENVIRONMENTAL SCIENCE": {
+                "code": "ITUG 1 01 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "MATHEMATICS – I": {
+                "code": "ITUG 1 21 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "ENGINEERING CHEMISTRY": {
+                "code": "ITUG 1 23 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ENGINEERING MECHANICS": {
+                "code": "ITUG 1 01 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ELEMENTS OF MECHANICAL ENGINEERING": {
+                "code": "ITUG 1 02 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "WORKSHOP": {
+                "code": "ITUG 1 02 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              },
+              "EAA-I-NSS": {
+                "code": "ITUG 1 GE 1x01",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "second": {
+              "COMMUNICATIVE ENGLISH": {
+                "code": "ITUG 2 24 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "MATHEMATICS-II": {
+                "code": "ITUG 2 21 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "PHYSICS": {
+                "code": "ITUG 2 22 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "BASIC ELECTRICAL ENGINEERING": {
+                "code": "ITUG 2 03 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "FUNDAMENTAL OF INFORMATION TECHNOLOGY": {
+                "code": "ITUG 2 06 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 2,
+                "Credits": 4
+              },
+              "ENGINEERING GRAPHICS": {
+                "code": "ITUG 2 01 1x02",
+                "L": 2,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "EAA-II-NSS": {
+                "code": "ITUG 2 GE 1x02",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "third": {
+              "ORGANIZATIONAL BEHAVIOUR AND INDUSTRIAL PSYCHOLOGY": {
+                "code": "ITUG 3 24 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "OBJECT ORIENTED PROGRAMMING": {
+                "code": "ITUG 3 05 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "BASIC ELECTRONICS": {
+                "code": "ITUG 3 04 1x01",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "DIGITAL ELECTRONICS": {
+                "code": "ITUG 3 04 1x02",
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "Credits": 5
+              },
+              "Industrial Economics and Accountancy": {
+                "code": "ITUG 3 24 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "MATHEMATICS-III": {
+                "code": "ITUG 3 21 1x03",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "EAA-III-NSS": {
+                "code": "ITUG 3 GE 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 26
+              }
+            },
+            "fourth": {
+              "DISCRETE MATHEMATICAL STRUCTURE & GRAPH THEORY": {
+                "code": "ITUG 4 21 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "MICROPROCESSOR AND IT S APPLICATIONS": {
+                "code": "ITUG 4 03 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DATABASE SYSTEMS": {
+                "code": "ITUG 4 05 1x09",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "ANALOG ELECTRONICS": {
+                "code": "ITUG 4 04 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "COMPUTER ARCHITECTURE": {
+                "code": "ITUG 4 05 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "DATA STRUCTURES": {
+                "code": "ITUG 4 05 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "EAA-IV-NSS": {
+                "code": "ITUG 4 GE 1x04",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 25
+              }
+            },
+            "fifth": {
+              "FORMAL LANGUAGES & AUTOMATA THEORY": {
+                "code": "ITUG 5 05 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "INTRODUCTION TO COMMUNICATION SYSTEMS": {
+                "code": "ITUG 5 04 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "COMPILER DESIGN": {
+                "code": "ITUG 5 05 1x16",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "WEB TECHNOLOGY": {
+                "code": "ITUG 5 06 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "COMPUTER NETWORKS": {
+                "code": "ITUG 5 05 1x13",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "SYSTEMS PROGRAMMING": {
+                "code": "ITUG 5 05 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              }
+            },
+            "sixth": {
+              "ARTIFICIAL INTELLIGENCE": {
+                "code": "ITUG 6 05 1x17",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "VISUAL PROGRAMMING": {
+                "code": "ITUG 6 06 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "SOFTWARE ENGINEERING": {
+                "code": "ITUG 6 05 1x14",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DATA MINING & WAREHOUSING": {
+                "code": "ITUG 6 06 1x06",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "OPERATING SYSTEMS": {
+                "code": "ITUG 6 06 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "DESIGN & ANALYSIS OF ALGORITHMS": {
+                "code": "ITUG 6 05 1x06",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              }
+            },
+            "seventh": {
+              "Personnel Management and Industrial Relation": {
+                "code": "ITUG 7 24 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Distributed Computing and its Application": {
+                "code": "ITUG 7 06 1x07",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Wireless and Mobile Communication": {
+                "code": "ITUG 7 06 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Information security": {
+                "code": "ITUG 7 06 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Elective I": {
+                "code": "ITUG 7 06 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Elective –II": {
+                "code": "ITUG 7 06 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Project- I": {
+                "code": "ITUG 7 06 1x24",
+                "L": 0,
+                "T": 0,
+                "P": 6,
+                "Credits": 4
+              },
+              "Industrial Training": {
+                "code": "ITUG 7 06 1x26",
+                "L": 2,
+                "T": 0,
+                "P": 0,
+                "Credits": 26
+              }
+            },
+            "eighth": {
+              "XML Web Services": {
+                "code": "ITUG 8 06 1x09",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Multimedia Technology and Application": {
+                "code": "ITUG 8 06 1x10",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Intrusion Detection": {
+                "code": "ITUG 8 06 1x08",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Elective III": {
+                "code": "ITUG 8 06 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Elective IV": {
+                "code": "ITUG 8 06 1xxx",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Project –II": {
+                "code": "ITUG 8 06 1x25",
+                "L": 0,
+                "T": 0,
+                "P": 9,
+                "Credits": 6
+              }
+            }
+          }
+        },
+        "ELECTRICAL & ELECTRONICS ENGINEERING": {
+          "semester": {
+            "first": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "second": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "third": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "fourth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "fifth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "sixth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "seventh": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "eigth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            }
+          }
+        },
+        "LEATHER TECHNOLOGY": {
+          "semester": {
+            "third": {
+              "ORGANIZATIONAL BEHAVIOUR AND INDUSTRIAL PSYCHOLOGY": {
+                "code": "MEUG 3 24 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Theory & Practices of preservation and pre-tanning processes": {
+                "code": "LTUG 3 07 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Material Science": {
+                "code": "MEUG 3 01 1x05",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "Mathematics –III": {
+                "code": "MEUG 3 21 1x03",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "Strength of material": {
+                "code": "MEUG 3 02 1x06",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Thermodynamics": {
+                "code": "MEUG 3 02 1x07",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "EAA-III-NSS": {
+                "code": "MEUG 3 GE 1x03",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 27
+              }
+            },
+            "fourth": {
+              "Basic Electronics": {
+                "code": "MEUG 4 04 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Object Orientation Programming": {
+                "code": "MEUG 4 05 1x01",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Numerical methods and computational technique": {
+                "code": "MEUG 4 21 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Introduction to leather Technology": {
+                "code": "LTUG 4 07 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Biochemistry of protein": {
+                "code": "LTUG 4 07 1x03",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Chemical Engineering – I": {
+                "code": "LTUG 4 07 1x04",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "EAA-IV-NSS": {
+                "code": "MEUG 4 GE 1x04",
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "Credits": 24
+              }
+            },
+            "fifth": {
+              "Personnel management and Industrial relation": {
+                "code": "MEUG 5 24 1x02",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Chemical Engineering – II": {
+                "code": "LTUG 5 07 1x05",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Principles of Inorganic Tannage": {
+                "code": "LTUG 5 07 1x06",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Principles of Organic Tannage": {
+                "code": "LTUG 5 07 1x07",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Practices of Leather Manufacturing - I": {
+                "code": "LTUG 5 07 1x08",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Analytical Chemistry of Leather": {
+                "code": "LTUG 5 07 1x09",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              }
+            },
+            "sixth": {
+              "Industrial Economics & Accountancy": {
+                "code": "MEUG 6 24 1x06",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 4
+              },
+              "Principles of Post Tanning Operation": {
+                "code": "LTUG 6 07 1x10",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Leather BioTechnology": {
+                "code": "LTUG 6 07 1x11",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Leather Product Technology- I": {
+                "code": "LTUG 6 07 1x12",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Principles of material testing": {
+                "code": "LTUG 6 07 1x13",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Chemical Engineering –III": {
+                "code": "LTUG 6 07 1x14",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              }
+            },
+            "seventh": {
+              "Leather finishing materials and Auxiliaries": {
+                "code": "LTUG 7 07 1x15",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Electives –I": {
+                "code": "LTUG 7 07 1x16",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Practices of Leather manufacturing -II": {
+                "code": "LTUG 7 07 1x17",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Theory of Leather supplements & Synthetics": {
+                "code": "LTUG 7 07 1x18",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Instrumentation and process control": {
+                "code": "LTUG 7 07 1x19",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Leather Product Technology-II": {
+                "code": "LTUG 7 07 1x20",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              }
+            },
+            "eighth": {
+              "Elective –II": {
+                "code": "LTUG 8 07 1x21",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Elective –III": {
+                "code": "LTUG 8 07 1x22",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "Tannery waste management": {
+                "code": "LTUG 8 07 1x23",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Practices of Leather manufacturing -III": {
+                "code": "LTUG 8 07 1x24",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Leather Product Technology –III": {
+                "code": "LTUG 8 07 1x25",
+                "L": 3,
+                "T": 0,
+                "P": 3,
+                "Credits": 5
+              },
+              "Project Work": {
+                "code": "LTUG 8 07 1x26",
+                "L": 0,
+                "T": 1,
+                "P": 6,
+                "Credits": 5
+              }
+            }
+          }
+        },
+        "PHARMACEUTICAL SCIENCE": {
+          "semester": {
+            "first": {
+              "COMMUNICATIVE ENGLISH": {
+                "code": "PSUG 1 24 1105",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 3
+              },
+              "PHARMACEUTICS-I": {
+                "code": "PSUG 1 09 1101",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL ANALYSIS – I": {
+                "code": "PSUG 1 09 1102",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY – I": {
+                "code": "PSUG 1 09 1103",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOGNOSY - I": {
+                "code": "PSUG 1 09 1104",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "REMEDIAL MATHEMATICS": {
+                "code": "PSUG 1 09 1106",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 3
+              },
+              "REMEDIAL BIOLOGY": {
+                "code": "PSUG 1 09 1107",
+                "L": 2,
+                "T": 0,
+                "P": 2,
+                "Credits": 3
+              }
+            },
+            "second": {
+              "ADVANCED MATHEMATICS": {
+                "code": "PSUG 2 09 1105",
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "Credits": 3
+              },
+              "PHARMACEUTICS-II": {
+                "code": "PSUG 2 09 1201",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY – II": {
+                "code": "PSUG 2 09 1202",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY – III": {
+                "code": "PSUG 2 09 1203",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "APHE-I": {
+                "code": "PSUG 2 09 1204",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              }
+            },
+            "third": {
+              "PHARMACEUTICS-III": {
+                "code": "PSUG 3 09 1301",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY – IV": {
+                "code": "PSUG 3 09 1302",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOGNOSY - II": {
+                "code": "PSUG 3 09 1303",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL ANALYSIS – II": {
+                "code": "PSUG 3 09 1304",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "APHE-II": {
+                "code": "PSUG 3 09 1305",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              }
+            },
+            "fourth": {
+              "PHARMACEUTICS-IV": {
+                "code": "PSUG 4 09 1401",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL MICROBIOLOGY": {
+                "code": "PSUG 4 09 1402",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOGNOSY - II": {
+                "code": "PSUG 4 09 1403",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 5
+              },
+              "PATHOPHYSIOLOGY OF COMMON DISEASES": {
+                "code": "PSUG 4 09 1404",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 3
+              },
+              "BASIC ELECTRONICS AND COMPUTER APPLICATIONS": {
+                "code": "PSUG 4 09 1405",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL JURISPRUDENCE & ETHICS": {
+                "code": "PSUG 4 09 1406",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              }
+            },
+            "fifth": {
+              "PHARMACEUTICS-V": {
+                "code": "PSUG 5 09 1501",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY – V": {
+                "code": "PSUG 5 09 1502",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOLOGY - I": {
+                "code": "PSUG 5 09 1503",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOGNOSY-IV": {
+                "code": "PSUG 5 09 1504",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICS-VI": {
+                "code": "PSUG 5 09 1505",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              }
+            },
+            "sixth": {
+              "PHARMACEUTICS-VII": {
+                "code": "PSUG 6 09 1601",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY – VI": {
+                "code": "PSUG 6 09 1602",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOLOGY - II": {
+                "code": "PSUG 6 09 1603",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOGNOSY-V": {
+                "code": "PSUG 6 09 1604",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL ANALYSIS-III": {
+                "code": "PSUG 6 09 1605",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              }
+            },
+            "seventh": {
+              "PHARMACEUTICS-VIII": {
+                "code": "PSUG 7 09 1701",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY-VII": {
+                "code": "PSUG 7 09 1702",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOLOGY - III": {
+                "code": "PSUG 7 09 1703",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL BIOTECHNOLOGY": {
+                "code": "PSUG 7 09 1704",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PHARMACEUTICAL INDUSTRIAL MANAGEMENT": {
+                "code": "PSUG 7 09 1705",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "ELECTIVE": {
+                "code": "PSUG 7 09 1706",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              }
+            },
+            "eighth": {
+              "PHARMACEUTICS-IX": {
+                "code": "PSUG 8 09 1801",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACEUTICAL CHEMISTRY – VIII": {
+                "code": "PSUG 8 09 1802",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PHARMACOLOGY -IV": {
+                "code": "PSUG 8 09 1803",
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "Credits": 3
+              },
+              "PHARMACOGNOSY-VI": {
+                "code": "PSUG 8 09 1804",
+                "L": 3,
+                "T": 0,
+                "P": 4,
+                "Credits": 5
+              },
+              "PROJECT WORK & VIVA VOCE": {
+                "code": "PSUG 8 09 1805",
+                "L": 0,
+                "T": 0,
+                "P": 12,
+                "Credits": 10
+              }
+            }
+          }
+        },
+        "DAIRY TECHNOLOGY": {
+          "semester": {
+            "first": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "second": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "third": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "fourth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "fifth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "sixth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "seventh": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            },
+            "eigth": {
+              "subject": {
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus",
+                "subj1": "syllabus"
+              }
+            }
+          }
+        }
+      },
+      "Subject": {
+        "MATHEMATICS-I": {
+          "Code": "21 1x01",
+          "L-T-P": "3-1-0",
+          "Credit": 4,
+          "Topics": [
+            {
+              "Topic": "ALGEBRA OF MATRICES",
+              "Subtopics": [
+                "Elementary transformation",
+                "Inverse by row transformation",
+                "Canonical reduction",
+                "Rank",
+                "Solution of simultaneous equations",
+                "Characteristic equation",
+                "Eigen values and Eigen vectors",
+                "Caley's Hamilton theorem",
+                "Similarity transformation",
+                "Reduction to diagonal matrices"
+              ],
+              "Lecture": 8
+            },
+            {
+              "Topic": "DIFFERENTIAL CALCULUS",
+              "Subtopics": [
+                "Higher order derivatives (successive differentiation) and Leibnitz theorem",
+                "Indeterminate form",
+                "Tangent and normal",
+                "Review of maxima and minima",
+                "Concavity and convexity of a curve",
+                "Point of inflexion",
+                "Curvature and radius of curvature",
+                "Pedal equation",
+                "Asymptotes (for Cartesian curve only)",
+                "Taylor's and Maclaurin's series",
+                "Partial derivatives",
+                "Euler's theorem on homogeneous function",
+                "Harmonic function",
+                "Taylor's expansion of several variables",
+                "Maxima and minima of several variables",
+                "Lagrange's method for undetermined multipliers"
+              ],
+              "Lecture": 20
+            },
+            {
+              "Topic": "DIFFERENTIAL EQUATION",
+              "Subtopics": [
+                "First order equation (separable, homogeneous, exact, linear, and Bernoulli’s form)",
+                "Second and higher order equation with constant coefficients",
+                "Euler’s equation",
+                "Methods of their solution",
+                "Dependent and independent solutions",
+                "Wronskian’s system of first order equation"
+              ],
+              "Lecture": 8
+            },
+            {
+              "Topic": "INTEGRAL CALCULUS - I",
+              "Subtopics": [
+                "Convergence of improper integral - comparison test",
+                "Abel's test",
+                "Beta and gamma functions (definition and related problems)",
+                "Error function",
+                "Differentiation under integral sign - Leibnitz rule"
+              ],
+              "Lecture": 8
+            }
+          ],
+          "Text Books": [
+            "Advance engineering mathematics by H.K.Dass, S.Chand & Company Ltd.",
+            "Higher engineering mathematics by B.S. Grewal, Khanna Publishers",
+            "Differential calculus by Das & Mukherjee - U.N. Dhar & sons",
+            "Integral calculus by Das & Mukherjee - U.N. Dhar & sons"
+          ],
+          "Reference Books": [
+            "Advance engineering mathematics by E. Kreyszig, 8th Edition, John Wiley & Sons, New York",
+            "Advance engineering mathematics by Wiley & Barratt- Tata McGraw Hill",
+            "Linear Algebra by K. Hoffman and R Kunze-Prentice Hall"
+          ]
+        }
+      }
+    },
+
+    "M.Tech": {
+      "semester": {
+        "first": {
+          "subject": {
+            "subj1": "syllabus"
+          }
+        }
+      }
+    },
+    "BCA": {
+      "semester": {
+        "first": {
+          "subject": {
+            "subj1": "syllabus"
+          }
+        }
+      }
+    },
+    "MBBS": {
+      "semester": {
+        "first": {
+          "subject": {
+            "subj1": "syllabus"
+          }
+        }
+      }
+    },
+    "B.Pharma": {
+      "semester": {
+        "first": {
+          "subject": {
+            "subj1": "syllabus"
+          }
+        }
+      }
+    }
+  }
+}
