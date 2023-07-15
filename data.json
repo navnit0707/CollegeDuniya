@@ -1,6 +1,6 @@
 {
   "stream": {
-    "B.Tech": {
+    "BTech": {
       "stream": {
         "CIVIL ENGINEERING": {
           "semester": {
@@ -2995,8 +2995,7 @@
         }
       }
     },
-
-    "M.Tech": {
+    "MTech": {
       "semester": {
         "first": {
           "subject": {
@@ -3023,7 +3022,7 @@
         }
       }
     },
-    "B.Pharma": {
+    "BPharma": {
       "semester": {
         "first": {
           "subject": {

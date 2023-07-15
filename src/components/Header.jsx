@@ -1,17 +1,16 @@
 import React from "react";
-import styles from "./Header.module.css";
 
 function Header() {
   return (
-    <div className={styles.container}>
-      <nav className={styles.logo}>
-        <li>Logo</li>
+    <div className="flex flex-row bg-blue-500 justify-between">
+      <nav className="flex items-center ">
+        <li className="text-white">Logo</li>
       </nav>
-      <nav className={styles.navigation}>
-        <li>Syllabus</li>
-        <li>Notes</li>
-        <li>Tutorial</li>
-        <li>Contact us</li>
+      <nav className="flex items-center">
+        <li className="text-white">Syllabus</li>
+        <li className="text-white">Notes</li>
+        <li className="text-white">Tutorial</li>
+        <li className="text-white">Contact us</li>
       </nav>
     </div>
   );
